@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B4CF090A-B32F-4AA0-AE45-B45C958A43E2}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridIniOS/MyViewController.cs">
+    <Files>
+      <File FileName="GridIniOS/Info.plist" />
+      <File FileName="GridIniOS/MyViewController.cs" Line="29" Column="17" />
+      <File FileName="GridIniOS/NumericColumnRenderer.cs" Line="26" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GridIniOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.954ED523-1D14-4F4D-9B9F-64EDAA4912CC" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
